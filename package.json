@@ -2,7 +2,6 @@
   "name": "amazon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lmn31190.github.io/ecommerce1-react",
   "dependencies": {
     "@formkit/auto-animate": "^1.0.0-beta.1",
     "@heroicons/react": "v1",
